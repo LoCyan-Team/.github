@@ -7,6 +7,7 @@
 - [X] **[LoCyanFrpPyLauncher](https://github.com/LoCyan-Team/LoCyanFrpPyLauncher)** | LoCyanFrp 隧道启动器
 - [X] **[LoCyanFrpAPI](https://github.com/LoCyan-Team/LoCyanFrpAPI)** | LoCyan 旗下 LoCyanFrp 的后台 API
 - [X] **[LoCyanFrpSMLauncher](https://github.com/LoCyan-Team/LoCyanFrpSMLauncher)** | LoCyanFrp 官方纯净客户端
+- [X] **[LoCyanFrpPanel](https://github.com/LoCyan-Team/LoCyanFrpPanel)** | LoCyanFrp 新管理面板
 
 为程序找到有关**安全方面**的 Bug 者，根据 Bug **严重性**和**隐秘性**，对其奖励 **1TB ~ 5TB** 不等的 LoCyanFrp 内网穿透流量！
 
