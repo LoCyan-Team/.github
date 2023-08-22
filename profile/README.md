@@ -1,4 +1,4 @@
-# LoCyan Team
+# LoCyanTeam
 乐青网络科技官方开发部
 
 ### 主力研发项目
