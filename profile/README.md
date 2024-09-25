@@ -8,7 +8,7 @@
 - [X] **[LoCyanFrpCSDesktop](https://github.com/LoCyan-Team/LoCyanFrpCSDesktop)** | LoCyanFrp 隧道启动器 新版
 - [X] **[LoCyanFrpPyLauncher](https://github.com/LoCyan-Team/LoCyanFrpPyLauncher)** | LoCyanFrp 隧道启动器
 - [X] **[NyaLCF](https://github.com/Muska-Ami/NyaLCF)** | Nya LoCyanFrp!
-- [ ] **[Eda](https://github.com/LoCyan-Team/Eda)** | LoCyanFrp Minecraft Java版联机工具
+- [ ] **[Eda](https://github.com/LoCyan-Team/Eda)** | LoCyanFrp Minecraft Java 版联机工具
 
 ### 停止更新项目（但包含 Bug 修复）
 
