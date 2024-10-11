@@ -11,7 +11,7 @@
 - [x] **[LoCyanFrpPyLauncher](https://github.com/LoCyan-Team/LoCyanFrpPyLauncher)** | LoCyanFrp 隧道启动器
 - [x] **[NyaLCF](https://github.com/Muska-Ami/NyaLCF)** | Nya LoCyanFrp!
 - [x] **[Eda](https://github.com/LoCyan-Team/Eda)** | LoCyanFrp Minecraft Java 版联机工具
-- [x] **[LoCyanFrpSDK-JS](https://github.com/LoCyan-Team/LoCyanFrpSDK-JS)** | 适用于 LoCyanFrp 的 JS SDK
+- [ ] **[LoCyanFrpSDK-JS](https://github.com/LoCyan-Team/LoCyanFrpSDK-JS)** | 适用于 LoCyanFrp 的 JS SDK
 
 ### 停止更新项目（但包含 Bug 修复）
 
