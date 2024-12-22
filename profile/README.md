@@ -5,12 +5,17 @@
 
 #### LoCyanFrp
 
+##### 已发布
+
 - [x] **[LoCyanFrpPureApp](https://github.com/LoCyan-Team/LoCyanFrpPureApp)** | LoCyanFrp 官方纯净客户端
 - [x] **[LoCyanFrpPanel](https://github.com/LoCyan-Team/LoCyanFrpPanel)** | LoCyanFrp 新管理面板
-- [x] **[Kairo](https://github.com/Shiroiame-Kusu/Kairo)** | LoCyanFrp 隧道启动器
 - [x] **[LoCyanFrpPyLauncher](https://github.com/LoCyan-Team/LoCyanFrpPyLauncher)** | LoCyanFrp 隧道启动器
 - [x] **[NyaLCF](https://github.com/Muska-Ami/NyaLCF)** | Nya LoCyanFrp!
+- [x] **[Kairo](https://github.com/Shiroiame-Kusu/Kairo)** | LoCyanFrp 隧道启动器
 - [x] **[Eda](https://github.com/LoCyan-Team/Eda)** | LoCyanFrp Minecraft Java 版联机工具
+
+##### WIP🔧
+
 - [ ] **[LoCyanFrpSDK-JS](https://github.com/LoCyan-Team/LoCyanFrpSDK-JS)** | 适用于 LoCyanFrp 的 JS SDK
 
 <!--
