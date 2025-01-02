@@ -14,10 +14,6 @@
 - [x] **[Kairo](https://github.com/Shiroiame-Kusu/Kairo)** | LoCyanFrp 隧道启动器
 - [x] **[Eda](https://github.com/LoCyan-Team/Eda)** | LoCyanFrp Minecraft Java 版联机工具
 
-##### WIP🔧
-
-- [ ] **[LoCyanFrpSDK-JS](https://github.com/LoCyan-Team/LoCyanFrpSDK-JS)** | 适用于 LoCyanFrp 的 JS SDK
-
 <!--
 ### 停止更新项目（但包含 Bug 修复）
 
