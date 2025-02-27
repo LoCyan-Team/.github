@@ -1,11 +1,11 @@
 # LoCyanTeam
 乐青网络科技官方开发部
 
-### 主力研发项目
+## 主力研发项目
 
-#### LoCyanFrp
+### LoCyanFrp
 
-##### 已发布
+#### 已发布
 
 - [x] **[LoCyanFrpPureApp](https://github.com/LoCyan-Team/LoCyanFrpPureApp)** | LoCyanFrp 官方纯净客户端
 - [x] **[LoCyanFrpPanel](https://github.com/LoCyan-Team/LoCyanFrpPanel)** | LoCyanFrp 新管理面板
@@ -20,9 +20,9 @@
 #### LoCyanFrp
 -->
 
-### 停止支持项目（完全停止支持）
+## 停止支持项目（完全停止支持）
 
-#### LoCyanFrp
+### LoCyanFrp
 
 - [x] **[LoCyanFrpMSApp](https://github.com/LoCyan-Team/LoCyanFrpMSApp)** | LoCyanFrp 隧道启动、管理工具
 - [x] **[LoCyanFrpAPI](https://github.com/LoCyan-Team/LoCyanFrpAPI)** | LoCyan 旗下 LoCyanFrp 的后台 API
